@@ -1,0 +1,19 @@
+{
+  "name": "glowmandan",
+  "version": "1.0.0",
+  "description": "this is an ecommerce site for Glow Man Dan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentb5280/glowmandan.git"
+  },
+  "author": "Brent/Bree/Nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentb5280/glowmandan/issues"
+  },
+  "homepage": "https://github.com/brentb5280/glowmandan#readme"
+}
