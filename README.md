@@ -46,4 +46,6 @@ false
 Find me on GitHub: https://github.com/nmihaly
 <br />
 You can reach me at: nickmihaly@gmail.com
-<br />                                 
+<br /> 
+Brent Bowles - Brentbowles111@yahoo.com
+<br/>
